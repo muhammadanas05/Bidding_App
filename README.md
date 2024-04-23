@@ -21,4 +21,5 @@ To use the app locally, simply clone the repository and open the `index.html` fi
 
 ## Contributor
 Muhammad Saad
+
 Talha Nizamani
