@@ -18,3 +18,7 @@ To use the app locally, simply clone the repository and open the `index.html` fi
 - **HTML**: Structure and layout of the web application.
 - **CSS**: Styling and design elements for an intuitive user experience.
 - **JavaScript**: Implementation of interactive features and game logic.
+
+## Contributor
+Muhammad Saad
+Talha Nizamani
